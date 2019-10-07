@@ -1,4 +1,4 @@
-# About:
+# All about frogs
 This is a repository dedicated to providing knowledge about different types of frogs (some toads). A frog is any member of a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order **Anura** ( *without tail* in ancient greek). There are about 5,000 total **Anura** species. 
 
 
@@ -21,9 +21,9 @@ This is a repository dedicated to providing knowledge about different types of f
 - Animelia
 - Life span is 5 to 10 years.
 
-# 4. Panamanian Golden Toad
+# 4. Panamanian Golden Toad                                                       
 ![Panamanian Golden Toad](Pictures/peenerfrog.jpg)
-
+ 
 
 
 
