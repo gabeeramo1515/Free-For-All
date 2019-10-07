@@ -22,6 +22,8 @@ This is a repository dedicated to providing knowledge about different types of f
 - Life span is 5 to 10 years.
 
 # 4. Panamanian Golden Toad
+![Panamanian Golden Toad](Pictures/peenerfrog.jpg)
+
 
 
 
