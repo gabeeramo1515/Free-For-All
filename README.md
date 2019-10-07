@@ -1,5 +1,5 @@
 # About:
-This is a repository dedicated to providing knowledge about different types of frogs. A frog is any member of a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order **Anura** ( *without tail* in ancient greek). There are about 5,000 total **Anura** species. 
+This is a repository dedicated to providing knowledge about different types of frogs (some toads). A frog is any member of a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order **Anura** ( *without tail* in ancient greek). There are about 5,000 total **Anura** species. 
 
 
 ![Phrog](https://i.kym-cdn.com/photos/images/newsfeed/001/488/258/74e.gif)
@@ -12,6 +12,7 @@ This is a repository dedicated to providing knowledge about different types of f
 # The Top 5 most dangerous Frogs :frog:
 
 # 5. Mantella
+![froggietransparent](Pictures/froggietransparent.png)
 - Commonly known as Gold Frogs or Malagasy Poison Frogs
 - Only found on the island of Masdagascar
 - Incredibly similar to Latin Americas Poison Dart Frogs in toxicity, size, shape, and coloring, but arent related in any way.
@@ -20,4 +21,7 @@ This is a repository dedicated to providing knowledge about different types of f
 - Animelia
 - Life span is 5 to 10 years.
 
-[froggietransparent](https://github.com/gabeeramo1515/Free-For-All/blob/master/Pictures/froggietransparent.png?raw=true)
+# 4. Panamanian Golden Toad
+
+
+
