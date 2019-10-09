@@ -9,21 +9,9 @@ This is a repository dedicated to providing knowledge about different types of f
 - [One gram of the toxin produced by the skin of the golden poison dart frog could kill 100,000 people.](https://www.smithsonianmag.com/science-nature/14-fun-facts-about-frogs-180947089/)
 - [The lifespan of a frog is 1 to 30 years. The exact length of time depends on the species of frog.](http://justfunfacts.com/interesting-facts-about-frogs/)
 
-# The Top 5 most dangerous Frogs :frog:
+# The Top 5 most poisonous Frogs :frog:
 
-# 5. Mantella
-![froggietransparent](Pictures/froggietransparent.png)
-- Commonly known as Gold Frogs or Malagasy Poison Frogs
-- Only found on the island of Masdagascar
-- Incredibly similar to Latin Americas Poison Dart Frogs in toxicity, size, shape, and coloring, but arent related in any way.
-- They secrete a deadly toxin through their skin which is derived from a diet of mites, flies, ants, and collembolans.
-- They are safe to own as long as they arent fed what allows them to build up the deadly toxin.
-- Animelia
-- Life span is 5 to 10 years.
-
-# 4. Panamanian Golden Toad                                                       
-![Panamanian Golden Toad](Pictures/peenerfrog.jpg)
- 
-
-
-
+- ## Black Legged Dart Frog:
+Being the second most poisonous frog in the world, the Black-Legged Dart Frog (formally known as Phyllobates bicolor) is one of the largest poison dart frogs. Males can reach lengths of up to 45-50mm while sp,e s;oght;y larger females can be 50-55mm in length. The Black-Legged Dart Frog is highly toxic, and only takes just 150 micrograms of its poison to __kill__ an adult human. People heat the frog over a flame to make its poison sweat out for hunting darts. As poisonous as the Phyllobates bicolor is, it requires chemicals found only within their wild foud sources such as insects. Captive-raised frogs, being fed what do not contain these chemicals, will not become toxic in any way.
+- ## Kokoe Poison Dart Frog 
+The Kokoe Poison Dart Frog currently inhabits the Columbian forests. Although it hasnt been documented as killing any humans, the poison that secretes its 
