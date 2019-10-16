@@ -11,7 +11,16 @@ This is a repository dedicated to providing knowledge about different types of f
 
 # The Top 5 most poisonous Frogs :frog:
 
-- ## Black Legged Dart Frog:
+## 1. Splash-Backed Poison Frog
+
+
+## 2. Phantasmal Poison Frog
+
+
+## 3. Kokoe Poison Dart Frog 
+The Kokoe Poison Dart Frog currently inhabits the Columbian forests. Although it hasnt been documented as killing any humans, the poison that secretes its
+
+## 4. Black Legged Dart Frog:
 Being the second most poisonous frog in the world, the Black-Legged Dart Frog (formally known as Phyllobates bicolor) is one of the largest poison dart frogs. Males can reach lengths of up to 45-50mm while sp,e s;oght;y larger females can be 50-55mm in length. The Black-Legged Dart Frog is highly toxic, and only takes just 150 micrograms of its poison to __kill__ an adult human. People heat the frog over a flame to make its poison sweat out for hunting darts. As poisonous as the Phyllobates bicolor is, it requires chemicals found only within their wild foud sources such as insects. Captive-raised frogs, being fed what do not contain these chemicals, will not become toxic in any way.
-- ## Kokoe Poison Dart Frog 
-The Kokoe Poison Dart Frog currently inhabits the Columbian forests. Although it hasnt been documented as killing any humans, the poison that secretes its 
+
+## 5. Golden Poison Frog
