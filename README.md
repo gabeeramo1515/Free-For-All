@@ -28,3 +28,6 @@ Being the second most poisonous frog in the world, the Black-Legged Dart Frog (f
 ## 5. Golden Poison Frog
 The Golden Poison Frog is considered one of the most toxic animals on earth. A single Frog has enough venom to kill 10 grown men and has been known to kill animals just by having them step in the same place the frog has been. 
 ![GoldenPoisonFrog](http://www.understoryenterprises.com/wp-content/themes/understory/images/toxicity725-600x401.jpg)
+
+# Resources:
+- [https://animals.mom.me/top-five-poisonous-frogs-2811.html](https://animals.mom.me/top-five-poisonous-frogs-2811.html)
