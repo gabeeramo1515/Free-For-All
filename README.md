@@ -32,7 +32,7 @@ The Golden Poison Frog is considered one of the most toxic animals on earth. A s
 # Plans For Future Development:
 - More facts about frogs (diet, habitat, behaviour, etc.)
 - More lists of different frogs
-
+- Create search engine dedicated frog fact searching ;)
 # Resources:
-- [https://animals.mom.me/top-five-poisonous-frogs-2811.html](https://animals.mom.me/top-five-poisonous-frogs-2811.html)
-- [https://www.ducksters.com/animals/gold_poison_dart_frog.php](https://www.ducksters.com/animals/gold_poison_dart_frog.php)
+- [Animals.mom.me](https://animals.mom.me/top-five-poisonous-frogs-2811.html)
+- [Ducksters.com](https://www.ducksters.com/animals/gold_poison_dart_frog.php)
